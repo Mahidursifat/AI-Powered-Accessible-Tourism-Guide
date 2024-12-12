@@ -77,10 +77,7 @@ pip install -r requirements.txt
 ```
 
 ## 🤝 Connect With Me
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Contact Email]
-
+- GitHub: https://github.com/Mahidursifat
 ---
 
 **Let's make travel accessible for everyone!** 🌍✨
