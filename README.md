@@ -1,7 +1,6 @@
 # AI-Powered Accessible Tourism Guide 🌍♿️
 
 ## Summary
-
 The AI-Powered Accessible Tourism Guide is a transformative technological solution designed to revolutionize travel experiences for individuals with disabilities. This innovative project addresses critical challenges in accessible travel through advanced artificial intelligence, machine learning, and comprehensive data analysis.
 
 ### Project Vision and Mission
