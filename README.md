@@ -158,7 +158,7 @@ The AI-Powered Accessible Tourism Guide is a comprehensive application designed 
 
 ```bash
 # Clone the repository
-git clone https://github.com/MahidurSifat/AI-Accessible-Tourism-Guide.git
+git clone https://github.com/Mahidursifat/AI-Powered-Accessible-Tourism-Guide.git
 
 # Create virtual environment
 python -m venv venv
